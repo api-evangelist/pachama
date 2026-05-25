@@ -1,0 +1,96 @@
+aid: pachama
+name: Pachama
+description: >-
+  Pachama is a San Francisco–based climate technology company founded in 2018
+  that built a satellite- and machine-learning-powered platform for monitoring,
+  reporting, and verification (MRV) of nature-based carbon projects —
+  including forest conservation, reforestation, afforestation, and improved
+  forest management. Pachama combined satellite imagery, LiDAR, remote
+  sensing, and deep-learning models to measure aboveground biomass, detect
+  deforestation, and track project performance against verified baselines,
+  surfacing that intelligence through an online marketplace where corporate
+  buyers (including Microsoft, Shopify, Salesforce, Flexport.org, Mercado
+  Libre, Boom Supersonic, and Nespresso) could discover and purchase
+  high-integrity carbon credits. In November 2025, Pachama was acquired by
+  Carbon Direct, and its proprietary digital MRV platform and forest-carbon
+  science team were folded into Carbon Direct's science-backed carbon
+  management offering; pachama.com now redirects to carbon-direct.com.
+  Throughout its life as an independent company Pachama operated a buyer
+  marketplace and discussed plans for a partner API to embed project
+  selection and retirement data into third-party products, but never shipped
+  a public, self-service developer API, SDK, or open OpenAPI specification —
+  its GitHub organization contains only forks and archived internal tooling.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Carbon Credits
+  - Carbon Removal
+  - Carbon Markets
+  - Nature Based Solutions
+  - Forest Carbon
+  - Reforestation
+  - Afforestation
+  - REDD Plus
+  - MRV
+  - Monitoring Reporting Verification
+  - Satellite Imagery
+  - Remote Sensing
+  - Machine Learning
+  - Biomass Estimation
+  - Climate Tech
+  - Sustainability
+  - ESG
+  - Voluntary Carbon Market
+url: https://raw.githubusercontent.com/api-evangelist/pachama/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://pachama.com
+  - type: SuccessorWebsite
+    url: https://carbon-direct.com
+  - type: AcquisitionAnnouncement
+    url: https://www.carbon-direct.com/press/carbon-direct-acquires-pachama
+  - type: Technology
+    url: https://pachama.com/technology
+  - type: Marketplace
+    url: https://pachama.com/marketplace
+  - type: Projects
+    url: https://pachama.com/projects
+  - type: ForBuyers
+    url: https://pachama.com/buyers
+  - type: ForProjectDevelopers
+    url: https://pachama.com/originators
+  - type: Science
+    url: https://pachama.com/science
+  - type: Research
+    url: https://pachama.com/research
+  - type: Blog
+    url: https://pachama.com/blog
+  - type: FAQ
+    url: https://pachama.com/faq
+  - type: About
+    url: https://pachama.com/about
+  - type: Careers
+    url: https://pachama.com/careers
+  - type: Press
+    url: https://pachama.com/press
+  - type: Contact
+    url: https://pachama.com/contact
+  - type: GitHub
+    url: https://github.com/pachama
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/pachama
+  - type: Twitter
+    url: https://twitter.com/pachamainc
+  - type: YouTube
+    url: https://www.youtube.com/@pachama
+  - type: CrunchbaseProfile
+    url: https://www.crunchbase.com/organization/pachama
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
