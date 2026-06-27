@@ -3,13 +3,11 @@
   "feeds": [
     {
       "source": "https://pachama.com/blog",
-      "error": "HTTPError"
-    },
-    {
-      "source": "https://pachama.com/research",
-      "error": "HTTPError"
+      "saved": 0,
+      "error": "redirects to carbon-direct.com (acquired); no dated posts"
     }
   ],
+  "fetched": "2026-06-27T12:59:23Z",
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "agent_pulled": "2026-06-27"
 }
