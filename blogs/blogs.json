@@ -2,12 +2,14 @@
   "repo": "pachama",
   "feeds": [
     {
-      "source": "https://pachama.com/blog",
+      "source": "https://pachama.com/research",
+      "feed_url": "https://pachama.com/research",
+      "title": "",
       "saved": 0,
-      "error": "redirects to carbon-direct.com (acquired); no dated posts"
+      "method": "none"
     }
   ],
-  "fetched": "2026-06-27T12:59:23Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "post_count": 0,
   "agent_pulled": "2026-06-27"
 }
