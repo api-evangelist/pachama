@@ -21,9 +21,20 @@ description: >-
   a public, self-service developer API, SDK, or open OpenAPI specification —
   its GitHub organization contains only forks and archived internal tooling.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Provider
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pachama.png
 tags:
   - Carbon Credits
   - Carbon Removal
