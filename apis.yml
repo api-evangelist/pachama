@@ -50,7 +50,7 @@ tags:
   - Carbon Credits
   - Carbon Removal
   - Carbon Markets
-  - Nature-Based Solutions
+  - Nature Based Solutions
   - Forest Carbon
   - Reforestation
   - Afforestation
@@ -90,6 +90,11 @@ modified: '2026-05-24'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/carbon-direct/
+    name: Carbon Direct
+    x-relationship: acquired
+    x-evidence: "In November 2025, Pachama was acquired by Carbon Direct, and its proprietary digital MRV platform and forest-carbon science team were folded into Carbon Direct's science-backed carbon management offering; pachama."
   - type: DomainSecurity
     url: security/pachama-domain-security.yml
   - type: Website
