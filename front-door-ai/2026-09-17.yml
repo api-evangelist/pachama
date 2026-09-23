@@ -1,0 +1,26 @@
+# Front Door AI Index — pachama — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: pachama
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: pachama.com
+  final_host: www.carbon-direct.com
+  ownership: inherited
+  owner: pachama
+  shares_host_with: null
+  inherited_from: www.carbon-direct.com
+  verdict: scored
+  score: null
+  host_score: 3
+  density: null
+  words: 1350
+  tiers:
+    agentic: 0
+    core: 3
+    model: 0
+  ambiguous: 3
+  top_terms:
+    artificial intelligence: 3
+    intelligence: 3
