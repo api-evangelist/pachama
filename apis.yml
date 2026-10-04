@@ -61,12 +61,13 @@ tags:
   - Monitoring Reporting Verification
   - Satellite Imagery
   - Remote Sensing
-  - Machine-Learning
+  - Machine Learning
   - Biomass Estimation
   - Climate Tech
   - Sustainability
   - ESG
   - Voluntary Carbon Market
+  - Climate
 tags_raw:
   - Carbon Credits
   - Carbon Removal
@@ -86,6 +87,8 @@ tags_raw:
   - Sustainability
   - ESG
   - Voluntary Carbon Market
+  - Machine-Learning
+  - Climate
 url: https://raw.githubusercontent.com/api-evangelist/pachama/refs/heads/main/apis.yml
 created: '2026-05-24'
 modified: '2026-05-24'
